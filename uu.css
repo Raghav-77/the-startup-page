@@ -1,0 +1,67 @@
+body{
+	background: url(https://wabstalk.com/wp-content/uploads/2019/06/1357922b6712244.jpg) no-repeat center center fixed ;
+	background-size: cover;
+	font-family: 'Raleway', sans-serif;
+	width: 100%;
+	height: 100%;
+}
+
+h1{
+	font-size: 45px;
+	color: rgba(0,255,0,0.6);
+	text-transform: uppercase;
+	text-shadow: 5px 5px 5px red;
+	padding-top: 40px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+h1:hover{
+	text-shadow: 6px 6px 6px blue;
+}
+
+.buffer{
+	height:200px;
+}
+
+button{
+	text-transform: uppercase;
+	background-color: orange;
+	color: brown;
+}
+
+button:hover{
+	background-color: yellow;
+	border-color: yellow;
+	border-width: 10px;
+}
+
+.button-xl{
+	padding: 2rem 3rem;
+	font-weight: 700;
+	border-radius: 300px;
+	font-size: 20px;
+	border-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
